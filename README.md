@@ -14,3 +14,6 @@ Use cslol-manager, download .fantome file from the "Releases" tab, open it insid
 
 Yes
 
+> ### Found a bug or have a suggestion, where to contact you?
+
+Currently I'm not active on social meadia, but you can contact me in Youtube comments 
