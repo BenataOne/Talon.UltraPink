@@ -5,7 +5,7 @@ Talon "Ultra Pink" & "Toxic Green" - Are my first skins
 
 <br/>
 
-## **Q & A**
+## **Questions & Answers**
 > ### How to install\launch? 
 
 Use cslol-manager, download the ```.fantome``` file from the "[Releases](https://github.com/BenataOne/Talon.HighNoon.Prestige.UltraPink/releases)" tab, open it inside the programm, run the programm (press the "play" button), run league, select Prestige High Noon skin, done. <br/>
