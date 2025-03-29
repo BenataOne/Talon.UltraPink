@@ -23,4 +23,4 @@ Yes
 Currently I'm not active on social meadia, but you can contact me in Youtube comments 
 <br/>
 
-<code style="color : red">text</code>
+<code style="color:red">text</code>
