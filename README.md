@@ -5,7 +5,7 @@ Talon "Ultra Pink" & "Toxic Green" - Are my first skins
 
 <br/>
 
-#Q & A
+# **Q & A**
 ***
 > ### How to install\launch? 
 
