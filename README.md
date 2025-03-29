@@ -1,7 +1,7 @@
 ## Custom skin: Prestige High Noon Talon - $${\color{f832df}Ultra Pink}$$
 [![IMAGE ALT TEXT HERE](./readme_picture.png)](https://www.youtube.com/watch?v=hdWnTyzXnX8)
 
-Talon "Ultra Pink" & "Toxic Green" - Are my first skins
+Talon "Ultra Pink" & "Toxic Green" - Are my first custom "Skins", It's simply a recolor of the model and visual effects
 
 <br/>
 
