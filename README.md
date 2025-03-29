@@ -12,13 +12,16 @@ Use cslol-manager, download the ```.fantome``` file from the "[Releases](https:/
 
 Or just watch [a guide on Youtube](https://www.youtube.com/results?search_query=lol+how+to+install+custom+skins).
 <br/>
+<br/>
 
 > ### Am I supposed to have "Prestige High Noon Talon" to play with the custom skin?
 
 Yes
 <br/>
+<br/>
 
 > ### Found a bug or have a suggestion, where to contact you?
 
 Currently I'm not active on social meadia, but you can contact me in Youtube comments 
+<br/>
 <br/>
