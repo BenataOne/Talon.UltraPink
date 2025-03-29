@@ -22,3 +22,5 @@ Yes
 
 Currently I'm not active on social meadia, but you can contact me in Youtube comments 
 <br/>
+
+<code style="color : name_color">text</code>
