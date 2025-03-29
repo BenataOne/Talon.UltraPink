@@ -15,10 +15,10 @@ Talon "Ultra Pink" & "Toxic Green" - Are my first skins
 
 Use cslol-manager, download .fantome file from the "Releases" tab, open it inside the programm, run the programm (press the "play" button), run league, select Prestige High Noon skin, done
 
-> ### Am I supposed to have "Prestige High Noon Talon" to play with the custom skin?
+> ## Am I supposed to have "Prestige High Noon Talon" to play with the custom skin?
 
 Yes
 
-> ### Found a bug or have a suggestion, where to contact you?
+> # Found a bug or have a suggestion, where to contact you?
 
 Currently I'm not active on social meadia, but you can contact me in Youtube comments 
